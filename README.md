@@ -1,5 +1,5 @@
 # Welcome
-## This repository contains a basic LLM which I have traing on some lil wayne lyrics
+## This repository contains a basic LLM that trains on Lil Wayne Lyrics
 
 ### Special thanks to Andrej Karpathy
 ### and his video at: https://www.youtube.com/watch?v=kCc8FmEb1nY
